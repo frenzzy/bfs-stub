@@ -1,0 +1,14 @@
+.header {
+    position: fixed;
+    top: 0;
+    z-index: 1;
+    box-sizing: border-box;
+    padding: 10px 10%;
+    width: 100%;
+    background: #f6f6f6;
+    box-shadow: 0 0 0 1px rgba(0, 0, 0, .1), 0 10px 20px -5px rgba(0, 0, 0, .4);
+}
+
+.header .button {
+    margin-left: 10px;
+}

@@ -1,0 +1,7 @@
+.page {
+    margin: 0;
+    padding-top: 100px;
+    min-height: 100%;
+    background: #000;
+    font-family: Tahoma, sans-serif;
+}
